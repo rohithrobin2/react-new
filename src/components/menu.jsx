@@ -4,7 +4,7 @@ import "./menu.css"
     export const MenuItem  = props =>{
 
     return (
-        <div className="Container" > 
+        <div className="Menu-items" > 
             
             <p>Project Specifies </p>
             <p>Documentation </p>
